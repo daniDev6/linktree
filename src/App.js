@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>{process.env.REACT_APP_HOLA}</p>
+        <p>no entiendo</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -22,3 +22,4 @@ function App() {
 }
 
 export default App;
+/*https://create-react-app.dev/docs/deployment/ */
