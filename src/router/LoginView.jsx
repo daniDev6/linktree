@@ -16,6 +16,7 @@ export default function LoginView(){
     5:ya existe el username
     6:nuevoUsername click para continuar
     7:username no existe
+    8:logout
     */
     const [state,setCurrentState]=useState(0)
 
